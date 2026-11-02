@@ -1,0 +1,9 @@
+file,gt,pred,color,light,otsu_t,area_ratio
+cap_off_none_bright_01.png,NG,OK,none,bright,134.0,0.3668
+cap_off_none_bright_02.png,NG,NG,none,bright,168.0,0.3019
+cap_off_none_bright_03.png,NG,OK,none,bright,190.0,0.3936
+cap_off_none_bright_04.png,NG,OK,none,bright,145.0,0.4284
+cap_on_black_bright_01.png,OK,OK,black,bright,143.0,0.5038
+cap_on_black_bright_02.png,OK,OK,black,bright,106.0,0.5305
+cap_on_white_bright_01.png,OK,OK,white,bright,151.0,0.5232
+cap_on_white_bright_02.png,OK,OK,white,bright,157.0,0.4354
