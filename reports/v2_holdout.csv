@@ -1,0 +1,9 @@
+file,gt,pred,mean,ratio
+cap_off_none_bright_01.png,NG,NG,144.1,0.45
+cap_off_none_bright_02.png,NG,NG,168.9,0.355
+cap_off_none_bright_03.png,NG,NG,188.0,0.351
+cap_off_none_bright_04.png,NG,NG,132.7,0.366
+cap_on_black_bright_01.png,OK,OK,101.5,1.11
+cap_on_black_bright_02.png,OK,NG,86.6,0.66
+cap_on_white_bright_01.png,OK,NG,142.5,0.557
+cap_on_white_bright_02.png,OK,NG,155.7,0.599

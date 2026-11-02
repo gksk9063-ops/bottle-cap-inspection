@@ -1,0 +1,13 @@
+file,gt,pred,mean,ratio
+cap_off_none_bright_03.png,NG,NG,184.1,0.464
+cap_off_none_bright_05.png,NG,NG,101.2,0.318
+cap_off_none_bright_11.png,NG,NG,104.2,0.381
+cap_off_none_bright_15.png,NG,NG,117.9,0.432
+cap_off_none_bright_21.png,NG,NG,176.0,0.477
+cap_off_none_bright_23.png,NG,NG,151.9,0.494
+cap_on_black_bright_07.png,OK,OK,64.5,1.673
+cap_on_black_bright_09.png,OK,OK,101.1,0.819
+cap_on_black_bright_17.png,OK,OK,89.4,0.82
+cap_on_black_bright_19.png,OK,OK,71.7,1.006
+cap_on_white_bright_01.png,OK,OK,186.5,1.67
+cap_on_white_bright_13.png,OK,OK,183.0,1.362
